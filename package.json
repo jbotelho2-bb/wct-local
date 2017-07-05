@@ -74,7 +74,9 @@
       "firefox": {
         "version": "0.11.1"
       },
-      "chrome": {},
+      "chrome": {
+        "version": "2.30"
+      },
       "ie": {}
     }
   }
